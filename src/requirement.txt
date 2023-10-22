@@ -1,1 +1,8 @@
-This is a counter app
+This is a counter app built with react 
+The counter app counts from initial of 0. An initial number can also be set in the case where it is desired.
+Libraries used in this project includes,
+react libary which involves the implementation of the 
+-react-router-dom for linking page
+-react-feather for the icons
+-react-error-boundary for the implementation of a default UI(User interface) in case of a build runtime error; A trigger button was added to simulate this runtime error
+
